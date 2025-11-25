@@ -1,6 +1,4 @@
-name: CI
-
-name: Deploy
+name: mdbook
 on:
   push:
     branches: [ "master" ]

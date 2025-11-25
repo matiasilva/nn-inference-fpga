@@ -1,6 +1,10 @@
 # Hardware accelerator design for neural network inference
 
-This Git repo hosts the material and documentation for a course I delivered on AI inference acceleration. The final deliverable is a pre-trained neural network inference engine hosted on an FPGA. The neural network is a digit classifier using data from the MNIST set.
+This Git repo hosts the material and documentation for a course I delivered on AI inference acceleration.
+
+The final deliverable is a pre-trained neural network inference engine hosted on an FPGA. The neural network is a digit classifier using data from the MNIST set.
+
+While this course is adapted for a classroom setting, you are free to view the course handouts.
 
 ## Housekeeping
 

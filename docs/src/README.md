@@ -22,6 +22,14 @@ constraints of artificial intelligence computations.
 
 ## Learning outcomes
 
+- Understand the tradeoffs involved in hardware design
+- Understand the interaction between the layers of abstraction in computer
+  architecture
+- Improve skills in PYthon, C and SystemVerilog
+- Gain hands-on experience with FPGAs, HDLs and Python-based verification
+- Gain intuition about machine learning computation and the mathematical
+  operations underpinning them
+
 ## Deliverable
 
 You will build an inference accelerator on an FPGA. Inference is the process of
@@ -34,26 +42,3 @@ Your neural network will be a digit classifier. This is the equivalent of ‘Hel
 World’ in the AI world. A digit classifier takes an image as an input and
 outputs 10 numbers, each representing a probability that the image corresponds
 to a particular number.
-
-Waterfall model of chip design flow
-
-AI
-
-Train NN using TensorFlow/PyTorch Train Converge Accuracy > 95%
-
-Load data, define model, train loop, evaluate. You'll also learn practical
-things like batch sizes, learning rates, and overfitting
-
-Stanford CS231N
-
-Inference engine on FPGA
-
-Topics
-
-Fixed point vs. Floating point
-
-Pipelining convolutions
-
-Memory management
-
-Convolution

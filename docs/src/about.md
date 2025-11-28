@@ -4,8 +4,7 @@
 
 Matias Wang Silva is a hardware engineer working on custom silicon at Raspberry
 Pi. He holds a BA and MEng from the University of Cambridge in Electrical and
-Information Sciences. His specialization is electronic and information
-engineering with a focus on embedded systems and computer design.
+Information Sciences.
 
 He is passionate about teaching curious young minds about engineering topics and
 has a long history of experience in tutoring.

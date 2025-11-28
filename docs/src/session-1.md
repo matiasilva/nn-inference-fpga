@@ -9,3 +9,5 @@ towers, in Samsung RAM memory controllers, and Apple’s M-series chips. They ar
 so ubiquitous, they are nearly forgotten and overlooked.
 
 ## The waterfall model
+
+[x] add precommit

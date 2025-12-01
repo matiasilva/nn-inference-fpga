@@ -37,6 +37,8 @@ strokes, we will learn about:
 We will meet once every weekend, with occasional breaks given for longer term
 work. Your supervisor will let you know in advance when this happens.
 
+There will be homework set on an ad-hoc basis.
+
 ## This website
 
 This website is meant to be a digital companion for the course, it is not a

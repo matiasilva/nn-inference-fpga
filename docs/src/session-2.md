@@ -1,4 +1,4 @@
-# Session 2: Overview
+# Session 2: Digital logic primer
 
 Now that we understand what we're building and roughly how we're going to do it,
 let's dig into some of the fundamentals of digital design.
@@ -173,16 +173,23 @@ responds to the clock, most commonly a rising edge (positive edge). A clock
 signal is a simple square wave with a 50% duty cycle. It is on for 50% of the
 period and off for the other half.
 
-Tying all this together, we arrive at sequential logic circuits, where the
+Tying this all together, we arrive at sequential logic circuits, where the
 outputs are a function of their current and previous inputs. Flip-flops, also
 called registers, are used to accomplish this. The simplest flop is a D-flip
 flop, as shown.
 
 <p style="text-align:center"><img style="max-width: 40%" src="dflop.png"></p>
 
-The component above has 3 inputs: clock, `d` and reset. It has one output `q`.
-Sometimes, you get an additional output which is the inverted version of `Q`,
-since it falls out naturally out of the transistor implementation of a D-flop.
+The component above has 3 inputs: clock, `d` and reset. It has one output `q`. A
+D-flip flop holds the value of the previous input for one clock cycle. D-flip
+flops are so common that we simply refer to them as 'flops'.
+
+> [!NOTE]
+>
+> Sometimes, you get an additional output which is the inverted version of `Q`,
+> since it falls out naturally out of the transistor implementation of a D-flop.
+
+## Waveforms
 
 One way to visualize sequential logic circuits is with waveform diagrams, as
 below.

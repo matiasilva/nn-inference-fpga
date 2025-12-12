@@ -39,6 +39,34 @@ work. Your supervisor will let you know in advance when this happens.
 
 There will be homework set on an ad-hoc basis.
 
+## Teaching style
+
+While I try and approach all topics from the most intuitive and
+'first-principles' perspective, it's possible it might not work for you. I
+therefore highly encourage the practice of asking questions all throughout the
+course as well as for you to supplement the course material with some of the
+resources linked on this site. Remember, this course is not self-contained, it's
+merely an introduction to the weird and wonderful world(s) of digital design and
+machine learning. I encourage you to go _off-piste_!
+
+A few more tips:
+
+- **Do your homework!** I've deliberately crafted homework to be direct and
+  short. The more you put in, the more you will get out of it.
+- **Do more beyond your homework!** You'll find that as you stretch beyond the
+  scope of the problems I've given you, that's where the real learning will
+  happen. Try something new, break something, extend something, and then tell me
+  about and share it with the class!
+- **The classroom is your friend.** Imagine sitting in a room with a group of
+  like-minded people with the same interests as you. Sounds great, right? Well,
+  that's exactly what our classroom is! Please share ideas, thoughts, questions
+  and more with the group. Nothing is worth feeling embarrassed.
+
+And lastly, I will repeat: **do not be afraid to ask questions**! Interrupt me,
+please. You may have heard this several times before but I'll repeat it again:
+if you've got a question, chances are someone has the same one too. Do us all a
+favor and ask it!
+
 ## This website
 
 This website is meant to be a digital companion for the course, it is not a

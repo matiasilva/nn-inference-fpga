@@ -1,4 +1,4 @@
-# Session 7: Overview
+# Session 7: Floating point
 
 Train NN using TensorFlow/PyTorch Train Converge Accuracy > 95%
 

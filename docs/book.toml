@@ -8,3 +8,6 @@ extra-watch-dirs = ["circuits"]
 
 [preprocessor.digitaljs]
 command = "python3 preprocessors/digitaljs.py"
+
+[output.html]
+mathjax-support = true

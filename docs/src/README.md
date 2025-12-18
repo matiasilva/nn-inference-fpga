@@ -25,7 +25,7 @@ constraints of artificial intelligence computations.
 - Understand the tradeoffs involved in hardware design
 - Understand the interaction between the layers of abstraction in computer
   architecture
-- Improve skills in PYthon, C and SystemVerilog
+- Improve skills in Python, C and SystemVerilog
 - Gain hands-on experience with FPGAs, HDLs and Python-based verification
 - Gain intuition about machine learning computation and the mathematical
   operations underpinning them
@@ -43,11 +43,13 @@ World’ in the AI world. A digit classifier takes an image as an input and
 outputs 10 numbers, each representing a probability that the image corresponds
 to a particular number.
 
+You'll also write a report that conforms to the CREST Gold guidelines
+
 ## Useful links
 
-* https://course.fast.ai/Lessons/lesson8.html
-* https://www.deeplearningbook.org/lecture_slides.html
-* http://neuralnetworksanddeeplearning.com/chap6.html
-* https://distill.pub/
-* https://colah.github.io/
-* 3B1B
+- <https://course.fast.ai/Lessons/lesson8.html>
+- <https://www.deeplearningbook.org/lecture_slides.html>
+- <http://neuralnetworksanddeeplearning.com/chap6.html>
+- <https://distill.pub/>
+- <https://colah.github.io/>
+- 3B1B

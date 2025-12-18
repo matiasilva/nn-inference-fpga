@@ -39,6 +39,19 @@ work. Your supervisor will let you know in advance when this happens.
 
 There will be homework set on an ad-hoc basis.
 
+| Date  | Duration (hrs) | Time (GMT+0) |
+| ----- | -------------- | ------------ |
+| 21/12 | 1              | 8:30         |
+| 27/12 | 1              | 9:30         |
+| 3/1   | 1.5            | 9:30         |
+| 18/1  | 1.5            | 9            |
+| 25/1  | 1              | 9            |
+| 1/2   | 1.5            | 9            |
+| 8/2   | 1              | 9            |
+| 14/2  | 1.5            | 9:30         |
+| 21/2  | 1              | 9:30         |
+| 28/2  | 1              | 9:30         |
+
 ## Teaching style
 
 While I try and approach all topics from the most intuitive and

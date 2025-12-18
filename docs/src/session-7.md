@@ -22,11 +22,31 @@ point coprocessor and the gains to be had are significant! Since design of such
 a multiplier is potentially a months-long endeavor, we're going to sidestep this
 and instead perform all our multiplications with fixed-point numbers.
 
-## Primer on floating point (IEEE-754)
+## Primer on floating point
 
-Programmers first encounter floating point numbers when they either a) quite
-literally see the word "float" in their C programs or b) try and spend hours
-debugging why `1.5 + 1.5 != 3.0`.
+Floating point is a standard way of representing numbers with decimal points in
+binary. An international standard was defined and can be found as IEEE-754 on
+the internet.
+
+The key idea behind floating point is that any decimal number can be expressed
+as `n` number of significant digits multiplied by ten to some power `m`. In a
+fixed 32 or 16 bit binary number, `n` and `m` are in conflict and are inversely
+related. Raising `m` allows us to represent bigger numbers while a bigger `n`
+gives us greater precision. IEEE-754 defines the following bit arrangement:
+
+```
+Single Precision (32-bit):
+┌─┬──────────┬───────────────────────────────────────────────┐
+│S│ Exponent │                  Mantissa                     │
+│ │  (8 bit) │                  (23 bit)                     │
+└─┴──────────┴───────────────────────────────────────────────┘
+ 1     8                        23
+ bit   bits                     bits
+```
+
+\\( \int x dx = \frac{x^2}{2} + C \\). Programmers first encounter floating
+point numbers when they either a) quite literally see the word "float" in their
+C programs or b) try and spend hours debugging why `1.5 + 1.5 != 3.0`.
 
 ## Fixed point
 
